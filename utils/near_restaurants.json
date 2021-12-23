@@ -1,0 +1,999 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEBpy9p_dB6lQrHjZ3fslDuKDg08Qu6i6Cwv-h9nJZuUnGP85XMX-VVz9zPc2glwoHpjJIFo_TMCSmvfjTlWkmGtyKbL-Gm4Tq7uudacAKKsioq-n4a4Gyqh4sCwVgIGPxbfPZnLzvfvY31Z1GnqF-7CbCs4x26X5cG5LgJN9QgLH6mjhp80hkuI5UWtqDlj2dBGh-gV3X6IyU9FyfcwvX8my2VX4KhB1voVbodSBkCnv3A4shXnUMf2LCLM2pl9lL0UUhp1fTKN6cnXiS3hnsxr0rksxVYzfEb-6-Izswna_94G2lmJPgN67fJzM_xkTKPIaIdRNWnXDYeM2-YARgt3Jt639jTafhDd55gpP2YVEOaW65l64ZleQIy-XotmwhtUECTmxrQ_p8XUOSymBbtDQpSdaEgjLZHoqtN_lfrEu_I2qzS9Mr-04Gat",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6569473,
+               "lng" : -0.8831188
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6583101802915,
+                  "lng" : -0.8817910697084979
+               },
+               "southwest" : {
+                  "lat" : 41.6556122197085,
+                  "lng" : -0.8844890302915019
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "La Matilde",
+         "photos" : [
+            {
+               "height" : 1524,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115351033119674748348\"\u003eLa Matilde\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAwBjbMCugmD7qX1PWkDNj983DMm4ZRGkcIpTQnelINy4JAeQBOkHwZJqfX2vULJHAc_hI8Otb-R1yRTaA-CVQ0yEZ9VOIxoG-peNDQq8ia8s81s7QWlaMqbs6GxfnDw2UK3CoitpV_TrFPuZdl4gYQbSKf-tZFPNbYmReD9A63Dw9y",
+               "width" : 2032
+            }
+         ],
+         "place_id" : "ChIJywpEOOsUWQ0RJrEOPyasmu0",
+         "plus_code" : {
+            "compound_code" : "M448+QQ Zaragoza, Spain",
+            "global_code" : "8CHXM448+QQ"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJywpEOOsUWQ0RJrEOPyasmu0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 228,
+         "vicinity" : "Calle de los Predicadores, 7, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6526498,
+               "lng" : -0.8807033000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6536118302915,
+                  "lng" : -0.879536269708498
+               },
+               "southwest" : {
+                  "lat" : 41.6509138697085,
+                  "lng" : -0.8822342302915021
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Beher Cinegia",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109172751923716937785\"\u003eJulio MM\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDP5sC0shd1Bn3uLjg6Y81nOZxm1niANEou-VH0a8fDEBDf0sAEkAGvlyT4GNdVipeC24j2KGjDhHRahKNMTx2lijKATTADHbVa5PD2F7ELUGIQOavUrqTrnsiJ_EM7ja5uS7u6ZYYyy-LPVZ_CjAHAg-ehOUkgqpByQO5BLslms3ki",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJD9Jlu-4UWQ0RW1GvvwopFUk",
+         "plus_code" : {
+            "compound_code" : "M439+3P Zaragoza, Spain",
+            "global_code" : "8CHXM439+3P"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJD9Jlu-4UWQ0RW1GvvwopFUk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 210,
+         "vicinity" : "Cinegia Gastronómica Mercado, Calle del Coso, nº 35, 1ª Planta Puerta, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.65044379999999,
+               "lng" : -0.8748338999999998
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.65183228029149,
+                  "lng" : -0.8735215197084977
+               },
+               "southwest" : {
+                  "lat" : 41.64913431970849,
+                  "lng" : -0.8762194802915018
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Los Cabezudos",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1132,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101906523771981230329\"\u003eLos Cabezudos\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDcMxpGOzzm5iyCqFUTVb76kICjwnWLyggdg4_dt2VP6RP87xJz7mqR_Zia4LTGlxkf1XQGrahLhHK2pYezWwH5MmxF35ohyS5IyYZlnsx6tQG2Iy3_v-gvf_5ROguePmuPhr5mKc9APfNYc2OYlMiIA-fH0BhKBnlTLMmH_myPgojq",
+               "width" : 1132
+            }
+         ],
+         "place_id" : "ChIJb3WWqfEUWQ0RPnsiNKv3WMc",
+         "plus_code" : {
+            "compound_code" : "M42G+53 Zaragoza, Spain",
+            "global_code" : "8CHXM42G+53"
+         },
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJb3WWqfEUWQ0RPnsiNKv3WMc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1046,
+         "vicinity" : "Calle de Antonio Agustín, 12, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6508903,
+               "lng" : -0.8815915999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6522392802915,
+                  "lng" : -0.8802426197084979
+               },
+               "southwest" : {
+                  "lat" : 41.6495413197085,
+                  "lng" : -0.882940580291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "El Corte Inglés Independencia",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106050196592587459577\"\u003eI H\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA7eRr8V_tRCmWZW-pg39pYKsC3Et0lJhNdMUVCW78wPWUnHEKMxhE3zAkEDSVNIbL1gRz-6iX6SjnH_W5w50nfojI-XkjLxYT3vR047ni1fmiZyTUc0Gh75XGAP-GY7HURO_lZM983QFEA0bPnbGzdr6_JB_UqIHILvsumIjgilW0z",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJX6JOzu4UWQ0RpAc7Sq9dZiE",
+         "plus_code" : {
+            "compound_code" : "M429+99 Zaragoza, Spain",
+            "global_code" : "8CHXM429+99"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJX6JOzu4UWQ0RpAc7Sq9dZiE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "department_store",
+            "meal_delivery",
+            "parking",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 8873,
+         "vicinity" : "Paseo de la Independencia, 11, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.67732240000001,
+               "lng" : -0.868275
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6786908302915,
+                  "lng" : -0.8670310197084979
+               },
+               "southwest" : {
+                  "lat" : 41.6759928697085,
+                  "lng" : -0.869728980291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurante El Condado de Aragón",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3267,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110279980858084437753\"\u003eLevi &amp; Ligia Cãpãtan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBCJDw_bxGEA2ilTgPZOyI1AHekzpv2hMiTx4h8R969zupftdgiY2P4wie6hW2K3q11jyNMXSSGwrkW9DyDxDdnuhEwnb53iGxq2LPShjEUsayZ0dyS2MCV62FbCmcxR6KCjWkGjRZZ71HrxMyhhbgEQCCoWFDW1PpkhG4r-UP9wTba",
+               "width" : 4894
+            }
+         ],
+         "place_id" : "ChIJbcONEIAUWQ0RQaeIIoF1Hgk",
+         "plus_code" : {
+            "compound_code" : "M4GJ+WM Zaragoza, Spain",
+            "global_code" : "8CHXM4GJ+WM"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJbcONEIAUWQ0RQaeIIoF1Hgk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 442,
+         "vicinity" : "Camino de los Molinos, 42, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.65557459999999,
+               "lng" : -0.8790833
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.65692513029149,
+                  "lng" : -0.8777329697084979
+               },
+               "southwest" : {
+                  "lat" : 41.6542271697085,
+                  "lng" : -0.880430930291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "El Rincón de Aragón",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1071,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100931140051623013139\"\u003eEl Rincón de Aragón\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECWjLFKK2-iw916V8Btp-SKbwhxv3Xeo8r4VOyhheJjsk_EHCkHSI9XI81MoDLdqu8uzFoG5shjcAT5YlCxeYV8-wFUdVhTPYHWzw3YpcvW0cI4ORi53UB5wa5OYGIbYyqpBGEsHzcIzp9Kz_4M2xrqYY_xFcxRwvoLGEBRr2FNiRyZ",
+               "width" : 2937
+            }
+         ],
+         "place_id" : "ChIJA7DQBe0UWQ0RQdI5NboOA3g",
+         "plus_code" : {
+            "compound_code" : "M44C+69 Zaragoza, Spain",
+            "global_code" : "8CHXM44C+69"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJA7DQBe0UWQ0RQdI5NboOA3g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 449,
+         "vicinity" : "Calle Santiago, 3, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6559423,
+               "lng" : -0.8909541
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6573058302915,
+                  "lng" : -0.8896452697084979
+               },
+               "southwest" : {
+                  "lat" : 41.6546078697085,
+                  "lng" : -0.892343230291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Centro Gallego de Zaragoza",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3864,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108571508472310828765\"\u003eRoberto Martin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDbcPAOZdRqKfkca1-myu6Ujkojahhtj1NodQz7Adj_XGs9dwGtrmQy3IY7J5kAf791OGQVv05ikiwJBvouJf1S8Igoe7MYjtc0odTBdHTHhuzsx3jvj8j7FlGgvtEHbILXrnN7uKWgeNvZLhypaYi18he5b2oLrLozgxHSiz3_IOR8",
+               "width" : 5152
+            }
+         ],
+         "place_id" : "ChIJi5wmycAUWQ0Rgb9gE75vOi0",
+         "plus_code" : {
+            "compound_code" : "M445+9J Zaragoza, Spain",
+            "global_code" : "8CHXM445+9J"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJi5wmycAUWQ0Rgb9gE75vOi0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 74,
+         "vicinity" : "Calle Santa Ines, 2, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6473152,
+               "lng" : -0.8789342000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6486070802915,
+                  "lng" : -0.8775618197084981
+               },
+               "southwest" : {
+                  "lat" : 41.6459091197085,
+                  "lng" : -0.8802597802915022
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Restaurante El Puerto de Santa María",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1008,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102610929506361345588\"\u003eRestaurante El Puerto de Santa María\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED07xb_SlC87JwS5cBdo6xLDjmGuR5I_bBPqn566rVH1ygEc5OTCB7WkMWJ7xLhN55XAPo4DX3sH_1fnvfzXUeQ-fJoHjFnMmya29ITDDWLhOTkwi-PpicEwn-oWkTI6mO7zMTGzqpizq5Glj4wRLefmQaHfWH8CQTJiYGQ5p5qguZC",
+               "width" : 1512
+            }
+         ],
+         "place_id" : "ChIJc5a_ZOUUWQ0Rl6UyPQgQJXk",
+         "plus_code" : {
+            "compound_code" : "J4WC+WC Zaragoza, Spain",
+            "global_code" : "8CHXJ4WC+WC"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJc5a_ZOUUWQ0Rl6UyPQgQJXk",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 787,
+         "vicinity" : "Paseo la Mina, 5, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6408838,
+               "lng" : -0.8930533999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64220823029149,
+                  "lng" : -0.8916645697084979
+               },
+               "southwest" : {
+                  "lat" : 41.6395102697085,
+                  "lng" : -0.894362530291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurante Goralai",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1364,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116128993791513318825\"\u003eRestaurante Goralai\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA_n9MQUEZAmgyK3-XjUgtlRuKJ743g9pz7lDIS2ZwHFEVVy14KISUeCaE0TmIBkn1eDDkbRCYO4MByeR6_O3s_pgHnPZhIxfye6VXD1Rm2hQXkHhKtAyzOo6451KaiLWws-126_HZA8OMD9G-vR3ujwTPVrGnZ1gdyfWH3ZkiTvYg",
+               "width" : 2590
+            }
+         ],
+         "place_id" : "ChIJxy22EdkUWQ0Rk88-pL9pkbQ",
+         "plus_code" : {
+            "compound_code" : "J4R4+9Q Zaragoza, Spain",
+            "global_code" : "8CHXJ4R4+9Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJxy22EdkUWQ0Rk88-pL9pkbQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 752,
+         "vicinity" : "Calle Santa Teresa de Jesús, 26, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6460911,
+               "lng" : -0.8802943
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64745723029149,
+                  "lng" : -0.8789202197084979
+               },
+               "southwest" : {
+                  "lat" : 41.6447592697085,
+                  "lng" : -0.881618180291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurante Riskomar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104866128786679864709\"\u003eConchita Navarro\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC0O7R47xJrgarX5JksfrLf-0KVdJbkg93OdVhzwADAND7w8NvHWte30DS9wrj_lqq9Zyj1miG9YkreqBKiWtPiKYkiE0eeO69WpS_xRUXhnV2UYcvTD0q2pejHm9yRPCDB3kCkXt7BfgN34Qnc2zVJL0ykBL6LABKmw3KgPwQTnN4-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJeziVvuUUWQ0RqUvwoEPNGMQ",
+         "plus_code" : {
+            "compound_code" : "J4W9+CV Zaragoza, Spain",
+            "global_code" : "8CHXJ4W9+CV"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJeziVvuUUWQ0RqUvwoEPNGMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 464,
+         "vicinity" : "Calle Francisco de Vitoria, 16, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.640445,
+               "lng" : -0.893686
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6417219802915,
+                  "lng" : -0.892219069708498
+               },
+               "southwest" : {
+                  "lat" : 41.6390240197085,
+                  "lng" : -0.894917030291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurante La Rinconada de Lorenzo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1585,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110767551719914892336\"\u003eRestaurante La Rinconada de Lorenzo\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAXgc9bB1dk3MD3-w3-_g5eBzpCVerDj7cOiJR3uuEb_jDzAnX5glWJQW7mgC3rAd45gS6aNLTovuXFgzOJ0_SoCU5hot49TS36XxgmK9X6uDLBCGx7SWktd54BdHbey060rVBykh-NgyT2SJZ700wsOBY_JgWO147ET3fMhiny47pd",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ4_xFB9kUWQ0RXIgSDtYKJjY",
+         "plus_code" : {
+            "compound_code" : "J4R4+5G Zaragoza, Spain",
+            "global_code" : "8CHXJ4R4+5G"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJ4_xFB9kUWQ0RXIgSDtYKJjY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1404,
+         "vicinity" : "Calle la Salle, 3, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.64013620000001,
+               "lng" : -0.8968717999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64148518029151,
+                  "lng" : -0.8955228197084978
+               },
+               "southwest" : {
+                  "lat" : 41.63878721970851,
+                  "lng" : -0.8982207802915019
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Baobab Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116603867778397435430\"\u003eRestaurante Baobab\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAldcgI7pl7o22sViBKg4UDDbMGeF5I2YYZU2eq2aqHenaGAi5bJ5VLwmkNQydum4Z4kj2VEvUW33crGi_tSdgtdzYYuXXN5HpBP-4U8fRiK31djeYcq6I1TXzyVsXPUIFg1zZh1Yo2TyYX-rpnC8G_r7GDbsOIzL7o5jyhU9EaxnIi",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJe7V-ndcUWQ0Rgz_NLRV-KaU",
+         "plus_code" : {
+            "compound_code" : "J4R3+37 Zaragoza, Spain",
+            "global_code" : "8CHXJ4R3+37"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJe7V-ndcUWQ0Rgz_NLRV-KaU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3077,
+         "vicinity" : "Calle del Arzobispo Apaolaza, 10, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6532084,
+               "lng" : -0.8787803999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.65455738029149,
+                  "lng" : -0.8774314197084978
+               },
+               "southwest" : {
+                  "lat" : 41.6518594197085,
+                  "lng" : -0.8801293802915019
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "La Republicana",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 765,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102211143818835239912\"\u003eLa Republicana\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBQ2srJZ11dHKpVQTv_zQTFiZQSaYqwD6BVVqbsZvqu3Wvgvf1T4vMmec2-fcEeBwsdgGEoZI7fMZMUw-UVsw3Fb0pNCmM6BpPOnFU3lw6_jG4lSifP4X-qFzxVa-b-GQ6WU1OG3R3ZsUtfcDweMtz8_fQ34elnSIGFeHd9ToPANL--",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJmURr2-0UWQ0RwD24oQ0C3LU",
+         "plus_code" : {
+            "compound_code" : "M43C+7F Zaragoza, Spain",
+            "global_code" : "8CHXM43C+7F"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJmURr2-0UWQ0RwD24oQ0C3LU",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3192,
+         "vicinity" : "Calle Casto Méndez Núñez, 38, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.64611109999999,
+               "lng" : -0.8799999999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64742613029151,
+                  "lng" : -0.8787015697084978
+               },
+               "southwest" : {
+                  "lat" : 41.64472816970851,
+                  "lng" : -0.8813995302915019
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurante Churrasco",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1060,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109952453568537851501\"\u003eRestaurante Churrasco\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAYxe0kda_BycqrXKLNs_IPihmDTIwZCA1citCGV_mTZg5FOtb9UdC037Gjnr066ZuW3oZ1gEnNdoZ_j1D7OlQL34JXMBGSpn-WY3qxx5nKuPjkJCDtCzkZC9VXIZRRVeuEmpShfSQadH6Sk2rPGWsETdrPa67iD7h0kRIBT56cDlrc",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJS_JPu-UUWQ0Rd92Vc7TW2QM",
+         "plus_code" : {
+            "compound_code" : "J4WC+C2 Zaragoza, Spain",
+            "global_code" : "8CHXJ4WC+C2"
+         },
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "ChIJS_JPu-UUWQ0Rd92Vc7TW2QM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 859,
+         "vicinity" : "Calle Francisco de Vitoria, 19, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.64530369999999,
+               "lng" : -0.8851161999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64649533029149,
+                  "lng" : -0.8840303697084978
+               },
+               "southwest" : {
+                  "lat" : 41.64379736970849,
+                  "lng" : -0.8867283302915019
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "El Corte Inglés Sagasta",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1746,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114902101387433806649\"\u003eCharly Guiu\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBMn9JuIQ3sYCG80LlErdz1WxBURmwL8Cb0bNoCnPDFoVli-xoxrdn9P8g9Q9AcBcURss6tQEDxPC_o1aiYnTUJtTIOjHC62UnGPMfb8g4SjKkDjHoKgXBPJT6KDGR5_WxWy8gn8A4NStsOHFHmmlFrraQ5XXBTw5lWejLcAiYHQ-VI",
+               "width" : 3104
+            }
+         ],
+         "place_id" : "ChIJm3YOpeAUWQ0RPhThkVBWr0I",
+         "plus_code" : {
+            "compound_code" : "J4W7+4X Zaragoza, Spain",
+            "global_code" : "8CHXJ4W7+4X"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJm3YOpeAUWQ0RPhThkVBWr0I",
+         "scope" : "GOOGLE",
+         "types" : [
+            "department_store",
+            "meal_delivery",
+            "parking",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 13769,
+         "vicinity" : "Paseo de Sagasta, 3, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.659858,
+               "lng" : -0.9210765000000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6607953802915,
+                  "lng" : -0.9193243197084981
+               },
+               "southwest" : {
+                  "lat" : 41.6580974197085,
+                  "lng" : -0.9220222802915023
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Centro Comercial Augusta",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116653398014719179213\"\u003eVíctor García Jodra\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECUPloyAPBarKU9qc0e5xPqHTlSNPbHQtI5qE5Ab5olfXEKyZ7sJFwsRUimVjVEDFuyDlu8qTXKTpaDxeDdTbqDveMUc0A_h7LUEbHVpiv0OJONI89RcwiC6ldsOAfl2NMvA6K8U8-AYjN_kc3YMSXGcFQ3rXJg7pH7Snp_Jtz2I1aO",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJl27NMUdrWQ0RSf5BEqdnv8g",
+         "plus_code" : {
+            "compound_code" : "M35H+WH Zaragoza, Spain",
+            "global_code" : "8CHXM35H+WH"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJl27NMUdrWQ0RSf5BEqdnv8g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shopping_mall",
+            "pharmacy",
+            "supermarket",
+            "grocery_or_supermarket",
+            "travel_agency",
+            "restaurant",
+            "food",
+            "health",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 7699,
+         "vicinity" : "Avenida Navarra, 180, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6735229,
+               "lng" : -0.8871514
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6750492802915,
+                  "lng" : -0.8857866197084981
+               },
+               "southwest" : {
+                  "lat" : 41.6723513197085,
+                  "lng" : -0.8884845802915022
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurante Chino La Paz",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101327776035745218172\"\u003eAlberto López\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC9MLo2jt89RR15bNFU-FGka8HK1EPTXXSaGb5T3Ei5YBB9CmUfMe6Kr7bFqLL8cfvJidu40VtogpUUMAvYaG2MXLw7u64lG0jXJVEHz7ZTuQ8mymV16IzvcVOgqYuIrwFe9CA3DS-IrhoX2x6dUdFFXkPeQWSB1-_5O5H0-Dw4CsqP",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJKwFxwKUUWQ0RKeuHfMqSOXk",
+         "plus_code" : {
+            "compound_code" : "M4F7+C4 Zaragoza, Spain",
+            "global_code" : "8CHXM4F7+C4"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJKwFxwKUUWQ0RKeuHfMqSOXk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 655,
+         "vicinity" : "Calle Pablo Ruiz Picasso, 26, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.65904249999999,
+               "lng" : -0.8579971
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.66039148029149,
+                  "lng" : -0.8566481197084979
+               },
+               "southwest" : {
+                  "lat" : 41.65769351970849,
+                  "lng" : -0.8593460802915019
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Bar La Bolera",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114732871885865997879\"\u003eBar La Bolera\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAGHcygdPqCUZ2d-uvbsB3Yos2tz1yOZ0vxyGyq88-gpOkUriJeHsOIjmNjXmFK0EsNvOT8EL12IE5H9Crm5yMsSX0BgiAkWWLiTvnvfdfuVDpvDnEsa6T_zZCidiACzAkCSeLYiWRYQ_RQEM6yyZ7HZ6HedBrADFm6UrbAGR5lNS1G",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ5eGYsmkUWQ0R51B8DkWVaDY",
+         "plus_code" : {
+            "compound_code" : "M45R+JR Zaragoza, Spain",
+            "global_code" : "8CHXM45R+JR"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJ5eGYsmkUWQ0R51B8DkWVaDY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 429,
+         "vicinity" : "Calle Pintor Manuel Viola, 4, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.643149,
+               "lng" : -0.8945394999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6444752802915,
+                  "lng" : -0.8931431697084979
+               },
+               "southwest" : {
+                  "lat" : 41.6417773197085,
+                  "lng" : -0.8958411302915019
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Taberna la Piedra",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 834,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115096893813079900068\"\u003eTaberna la Piedra\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDH79O4vJjQZd1ZNdHudl6fdmDCHMQhpIQ8JgASASDz6JkIJEnCk1TUl-Tlf3ZhXd1Y4fkt8tO2rWzarSsGww58-NkvqeU522y_2B0GOda7QPobZYYyeNti9aqVd55uoWZF6OjxUxz6MT074Sw2ArOOj8UeESnti8P7D5CiLZTxKjBj",
+               "width" : 1480
+            }
+         ],
+         "place_id" : "ChIJzaeFJNoUWQ0RPy0Ldr6D2nA",
+         "plus_code" : {
+            "compound_code" : "J4V4+75 Zaragoza, Spain",
+            "global_code" : "8CHXJ4V4+75"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJzaeFJNoUWQ0RPy0Ldr6D2nA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 767,
+         "vicinity" : "Calle Cortes de Aragón, 64, Zaragoza"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6329728,
+               "lng" : -0.8598397999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.63432178029149,
+                  "lng" : -0.8584908197084979
+               },
+               "southwest" : {
+                  "lat" : 41.6316238197085,
+                  "lng" : -0.861188780291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurante Torreluna",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103136149614751410382\"\u003ejuan Antonio nevado\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAHP040WTEeEy79I3eqeph1nFClKS7Nm4Pafzde45lkb7IXax58R7YQIAwZ23SsPsnxZkBiWKXuN2e-o2ARoIGJzQ_jl2plSVkhkcVgbqx6ml-ugs2HhLJ8uEoDomqDYpANCHwBDkSzzMLTlfC64hFETeUTXJh__Lmod2rbK8TRlnzE",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJDcnYgawVWQ0R7-W6u8m04bE",
+         "plus_code" : {
+            "compound_code" : "J4MR+53 Zaragoza, Spain",
+            "global_code" : "8CHXJ4MR+53"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJDcnYgawVWQ0R7-W6u8m04bE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 932,
+         "vicinity" : "Calle de Miguel Servet, 193, Zaragoza"
+      }
+   ],
+   "status" : "OK"
+}
