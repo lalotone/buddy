@@ -2,6 +2,7 @@ from dataclasses import dataclass
 import json
 import logging
 import geopy.distance
+from time import sleep
 
 # Awesome, from: https://stackoverflow.com/questions/59736682/find-nearest-location-coordinates-in-land-using-python
 # Implementation on the response:
@@ -46,20 +47,20 @@ def get_position_data(gps):
     nx = gps.next()
     # For a list of all supported classes and fields refer to:
     # https://gpsd.gitlab.io/gpsd/gpsd_json.html
-    logging.info("Trying to obtain position from GPS...")
     if nx['class'] == 'TPV':
         if getattr(nx, 'lat') is not None and getattr(nx, 'lon') is not None:
             latitude = float(getattr(nx, 'lat'))
             longitude = float(getattr(nx, 'lon'))
-            logging.info(f"Your position: lon = {longitude} lat = {latitude}")
+            # TODO: Check if finally neccesary logging
+            # logging.info(f"Your position: lon = {longitude} lat = {latitude}")
             return {"lat": latitude, "lon": longitude}
-
-        logging.error("Unknown lon/lat. Ignoring the coord point")
-
+        
+    sleep(1)
+    logging.error("Unknown lon/lat. Ignoring the coord point")
     return None
 
 
-def initialize_data():
+def load_data():
     # try:
     villages_list = []
     cities_list = []
